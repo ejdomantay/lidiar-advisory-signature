@@ -75,7 +75,7 @@ function setSignatureTemplate(curUser, eventObj){
           '<table style="border:0;border-spacing:0; font-size:14px; line-height: 16px;" cellspacing="0">	'+	
             '<tr>'+
               '<td>'+
-                  '<span><b>Lidiar Group Pty Ltd</b></span>'+
+                  '<span><b>Lidiar Advisory, part of the Lidiar Group Pty Ltd</b></span>'+
                   '</td>'+
             '</tr>'+
             '<tr>'+
