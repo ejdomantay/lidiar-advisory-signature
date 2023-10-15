@@ -61,7 +61,7 @@ function setSignatureTemplate(curUser, eventObj){
     '<table style="border:0;border-spacing:0;" cellspacing="0">'+
       '<tr>'+
         '<td style="padding-right: 10px;">'+
-          '<img  height="85" width="150" src="https://raw.githubusercontent.com/ejdomantay/lidiar-group/main/Lidiar%20Advisory%20Logo.png"></img>'+
+          '<img  height="85" width="130" src="https://raw.githubusercontent.com/ejdomantay/lidiar-group/main/Lidiar%20Advisory%20Logo.png"></img>'+
         '</td>'+
         '<td>'+
           '<table style="border:0;border-spacing:0;" cellspacing="0">'+		
